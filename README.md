@@ -39,9 +39,14 @@ File Tamper Test: Manually open the generated log chain file, edit a single char
 SCREENSHOTS: 
 
 1. Vault Secret Encryption & Retrieval
+   
    <img width="681" height="403" alt="image" src="https://github.com/user-attachments/assets/3f4bf6e2-f557-43a1-b1d3-40d56f308fea" />
-2. Multi-Threaded Log Analysis
+   
+3. Multi-Threaded Log Analysis
+   
    <img width="490" height="290" alt="image" src="https://github.com/user-attachments/assets/597860fb-31a1-4e6c-a0b6-5dedcc425348" />
-3. Tamper-Evident Audit Chain Verification
+   
+5. Tamper-Evident Audit Chain Verification
+   
    <img width="524" height="281" alt="image" src="https://github.com/user-attachments/assets/f494b993-a14a-4f72-81b0-84fd639c289c" />
 
