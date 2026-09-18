@@ -1,4 +1,4 @@
-# PROJECT TITLE: Enterprise-Secure-Vault-Log-Analytics-System-Java-CLI-
+# PROJECT TITLE: Enterprise Secure Vault Log Analytics System Java (CLI)
 
 OVERVIEW OF THE PROJECT: A lightweight, zero-dependency Java command-line interface (CLI) application built to securely store credentials, parse high-volume log streams, and track file changes. Built entirely using Core Java, this tool runs directly in terminal environments to provide enterprise-grade encryption, fast multi-threaded processing, and digital tamper detection.
 
